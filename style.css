@@ -824,6 +824,7 @@ width:100px;
     width: 50px;
     font-size: 11px;
     transition: transform .2s ease-in-out;
+  left:10px;
 }
 .header .header-nav .header-container2 .contact a{
     color: whitesmoke;
