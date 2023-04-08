@@ -869,7 +869,7 @@ width:100px;
     width: 60px;
     height: 20px;
     font-weight: bolder;
-    font-size: 78px;
+    font-size: 7px;
     font-style: italic;
     background-color:rgb(13, 177, 76);
     border-radius: 20px;
@@ -904,7 +904,8 @@ width:100px;
     right: 100px;
     background:transparent;
     border: none;
-  width:50px;
+  width:500px;
+  height:500px;
     
    
 }
