@@ -891,8 +891,8 @@ width:100px;
     height:auto;
     position: absolute;
     width: auto;
-    top: 150px;
-    left: 40px;
+    top: 120px;
+    left: 10px;
     border: none;
     background:  transparent;
     color: #afacac;
@@ -904,6 +904,7 @@ width:100px;
     right: 600px;
     background:transparent;
     border: none;
+  font-size:50px;
    
 }
 }
