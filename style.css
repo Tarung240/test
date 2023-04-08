@@ -900,12 +900,12 @@ width:100px;
 }
 .section-1 .sec1 .scrolldown{
     position: absolute;
-    bottom: 800px;
-    right: 200px;
+    bottom: 600px;
+    right: 400px;
     background:transparent;
     border: none;
-  width:20px;
-  height:20px;
+  width:50px;
+  height:50px;
   color:whitesmoke;
     
    
