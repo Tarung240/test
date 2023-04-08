@@ -892,7 +892,7 @@ width:100px;
     position: absolute;
     width: auto;
     top: 150px;
-    left: 60px;
+    left: 40px;
     border: none;
     background:  transparent;
     color: #afacac;
@@ -900,9 +900,10 @@ width:100px;
 }
 .section-1 .sec1 .scrolldown{
     position: absolute;
-    top: 600px;
+    bottom: 600px;
     right: 600px;
     background:transparent;
     border: none;
+   
 }
 }
