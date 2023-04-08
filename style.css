@@ -891,12 +891,12 @@ width:100px;
     height:auto;
     position: absolute;
     width: auto;
-    top: 60px;
-    left: 80px;
+    top: 150px;
+    left: 60px;
     border: none;
     background:  transparent;
     color: #afacac;
-  font-size:15px;
+  font-size:13px;
 }
 .section-1 .sec1 .scrolldown{
     position: absolute;
