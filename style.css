@@ -740,8 +740,8 @@ width:100px;
 
 }
 .header .header-nav .header-container .header-logo .logo{
-    height: 62px;
-    width: auto;
+    height: auto;
+    width: 100px;
     bottom: 10px;
     position: relative;
     color: goldenrod;
