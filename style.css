@@ -863,9 +863,9 @@ width:100px;
 }
 .section-1 .sec1 .button-1{
     position: absolute;
-    bottom: 400px;
+    bottom: 500px;
     left: 20x;
-    color: #030203;
+    color: whitesmoke;
     width: 100px;
     height: 30px;
     font-weight: bolder;
@@ -880,7 +880,7 @@ width:100px;
     transition: transform .2s ease-in-out;
 }
 .section-1 .sec1 .button-1 a{
-    color: black;
+    color: whitesmoke;
     text-decoration: none;
 }
 .section-1 .sec1 .button-1:hover{
