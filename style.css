@@ -821,7 +821,7 @@ width:100px;
     font-family:dancing script;
     color: antiquewhite;
     border: none;
-    width: 45px;
+    width: 50px;
     font-size: 11px;
     transition: transform .2s ease-in-out;
 }
@@ -839,7 +839,7 @@ width:100px;
     border: none;
     font-size:11px;
     transition: transform .2s ease-in-out;
-    width: 50px;
+    width: 80px;
 
     
 }
