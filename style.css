@@ -869,7 +869,7 @@ width:100px;
     width: 60px;
     height: 20px;
     font-weight: bolder;
-    font-size: 10px;
+    font-size: 78px;
     font-style: italic;
     background-color:rgb(13, 177, 76);
     border-radius: 20px;
@@ -896,7 +896,7 @@ width:100px;
     border: none;
     background:  transparent;
     color: #afacac;
-  font-size:11px;
+  font-size:10px;
 }
 .section-1 .sec1 .scrolldown{
     position: absolute;
