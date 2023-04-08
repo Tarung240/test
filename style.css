@@ -740,12 +740,12 @@ width:100px;
 
 }
 .header .header-nav .header-container .header-logo .logo{
-    height: auto;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     bottom: 10px;
     position: relative;
     color: goldenrod;
-  left:50px;
+  left:100px;
 }
 .header .header-nav .header-container .header-logo .Jeetendra{
     color: aliceblue;
