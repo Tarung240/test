@@ -740,19 +740,19 @@ width:100px;
 
 }
 .header .header-nav .header-container .header-logo .logo{
-    height: 50px;
-    width: 50px;
-    bottom: 10px;
+    height: 40px;
+    width: 40px;
+    bottom: 2px;
     position: relative;
     color: goldenrod;
-  left:40px;
+  left:10px;
 }
 .header .header-nav .header-container .header-logo .Jeetendra{
     color: aliceblue;
     position: relative;
-    left: 2px;
+    left: 10px;
     font-family: dancing script;
-  top:40px;
+  top:14px;
   font-size:small;
 
 }
@@ -760,28 +760,33 @@ width:100px;
     color: aliceblue;
     position: relative;
     font-family:  dancing script;
-  top:40px;
-  left:px;
+  top:14px;
+  left:15px;
   font-size:small;
 }
 .header .header-nav .header-container2{
-    width:350px ;
-    height: 100px;
-    display: flex;
-    justify-content:space-between ;
-    align-items: center;
+    width:180px ;
+    padding: 5px;
+    justify-content:flex-end ;
     position: relative;
     bottom: 10px;
-    right: 60px;
+    right: 180px;
     background: none;
+    display: flex;
+    font-size: 12px;
+    height: 30px;
 }
 .header .header-nav .header-container2 .home{
     background-color: transparent;
     font-family:dancing script;
     color: antiquewhite;
     border: none;
-    font-size: 20px;
+    font-size: 11px;
     transition: transform .2s ease-in-out;
+    width: 40px;
+    
+    
+    
 }
 .header .header-nav .header-container2 .home a{
     color: whitesmoke;
@@ -797,8 +802,9 @@ width:100px;
     font-family:dancing script;
     color: antiquewhite;
     border: none;
-    font-size: 20px;
+    font-size: 11px;
     transition: transform .2s ease-in-out;
+    width: 45px;
 }
 
 .header .header-nav .header-container2 .services a{
@@ -815,7 +821,8 @@ width:100px;
     font-family:dancing script;
     color: antiquewhite;
     border: none;
-    font-size: 20px;
+    width: 45px;
+    font-size: 11px;
     transition: transform .2s ease-in-out;
 }
 .header .header-nav .header-container2 .contact a{
@@ -830,8 +837,10 @@ width:100px;
     font-family:dancing script;
     color: antiquewhite;
     border: none;
-    font-size: large;
+    font-size:11px;
     transition: transform .2s ease-in-out;
+    width: 50px;
+
     
 }
 .header .header-nav .header-container2 .About-us a{
@@ -840,5 +849,59 @@ width:100px;
 }
 .header .header-nav .header-container2 .About-us:hover{
     transform: scale(1.2);
+}
+.section-1{
+    width: auto;
+    height: auto;
+    justify-content: space-evenly;
+    padding: 0px;
+}
+.section-1 .sec1 .logo{
+    width: 510px;
+    height: auto;
+    position: relative;
+}
+.section-1 .sec1 .button-1{
+    position: absolute;
+    bottom: 60px;
+    left: 20px;
+    color: #030203;
+    width: 150px;
+    height: 30px;
+    font-weight: bolder;
+    font-size: 15px;
+    font-style: italic;
+    background-color:rgb(13, 177, 76);
+    border-radius: 20px;
+    animation-name:  blink;
+    animation-duration: 1.6s;
+    animation-iteration-count: infinite;
+    font-family: gorditaregular;
+    transition: transform .2s ease-in-out;
+}
+.section-1 .sec1 .button-1 a{
+    color: black;
+    text-decoration: none;
+}
+.section-1 .sec1 .button-1:hover{
+    transform: scale(1.2);
+}
+
+.section-1 .sec1 .quote{
+    height:auto;
+    position: absolute;
+    width: auto;
+    top: 300px;
+    left: 120px;
+    border: none;
+    background:  transparent;
+    color: #afacac;
+}
+.section-1 .sec1 .scrolldown{
+    position: absolute;
+    top: 600px;
+    right: 600px;
+    background:transparent;
+    border: none;
 }
 }
