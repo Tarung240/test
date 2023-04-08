@@ -717,9 +717,9 @@ width:100px;
 
 .header{
     background-color:black ;
-    padding: 4px;
-    width: 1341px;
-    height: 70px;
+    padding: 5px;
+    width: auto;
+    height: fit-content;
     margin: 0px;
 }
 .header .header-nav{
