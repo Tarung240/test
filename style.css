@@ -749,7 +749,7 @@ width:100px;
 .header .header-nav .header-container .header-logo .Jeetendra{
     color: aliceblue;
     position: relative;
-    left: 30px;
+    left: 70px;
     font-family: dancing script;
   top:30px;
 
@@ -759,6 +759,8 @@ width:100px;
     position: relative;
     left: 10px;
     font-family:  dancing script;
+  top:30px;
+  left:80px;
 }
 .header .header-nav .header-container2{
     width:350px ;
