@@ -765,7 +765,7 @@ width:100px;
   font-size:small;
 }
 .header .header-nav .header-container2{
-    width:180px ;
+    width:200px ;
     padding: 5px;
     justify-content:flex-end ;
     position: relative;
@@ -773,7 +773,7 @@ width:100px;
     right: 100px;
     background: none;
     display: flex;
-    font-size: 12px;
+    font-size: 11px;
     height: 30px;
 }
 .header .header-nav .header-container2 .home{
